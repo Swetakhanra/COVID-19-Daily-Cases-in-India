@@ -1,2 +1,3 @@
 # R-projects
-data
+An R script to align DNA sequences using Bioconductor packages.
+
