@@ -12,5 +12,4 @@ This project analyzes and visualizes COVID-19 data in India using R.
 - RStudio
 - ggplot2, tidyverse, lubridate
 
-Created by [Sweta Khanra]
 
