@@ -13,4 +13,5 @@ This project analyzes and visualizes COVID-19 data in India using R.
 - ggplot2, tidyverse, lubridate
 
 ## 📊 Sample Output
+
 <img width="888" height="508" alt="Screenshot 2025-07-11 102327" src="https://github.com/user-attachments/assets/202c539d-4ea7-4abf-9829-4bdb7983ee86" />
