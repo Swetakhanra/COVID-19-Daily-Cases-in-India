@@ -4,7 +4,7 @@
 This project analyzes and visualizes COVID-19 data in India using R.
 
 ## Files Included
--- source dataset from WHO
+- source dataset from WHO
 - the main R script used to analyze and plot
 
 ## Tools Used
