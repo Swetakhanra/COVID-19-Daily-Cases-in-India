@@ -1,5 +1,5 @@
 # R-projects
-# COVID-19 Daily Cases in India – R Project
+# Project1: COVID-19 Daily Cases in India 
 
 This project analyzes and visualizes COVID-19 data in India using R.
 
